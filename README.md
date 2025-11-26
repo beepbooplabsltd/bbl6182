@@ -80,6 +80,12 @@ The required cable for a given keyloader (listed above) can also be easily made 
 | Ring    | Sense  | Pin 3  |
 | Sleeve  | Ground | Pin 4  |
 
+## Security design
+
+As with any device that may come in contact with encryption key material, it is important to understand the security design and risk factors when using the BBL6182.
+
+For more information, please review the in-depth discussion of the [BBL6182 security design](./security-design.md).
+
 ## Legal
 
 The names "beep boop labs" and "BBL6182", and the alembic distiller logo, are trademarks and/or copyrighted works of beep boop labs ltd. All rights are reserved.
